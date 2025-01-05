@@ -26,7 +26,7 @@
     "@stomp/stompjs": "^7.0.0",
     "global": "^4.4.0",
     "node-fetch": "^3.3.1",
-    "tar": "^6.1.15"
+    "tar": "^7.4.3"
   },
   "bugs": {
     "url": "https://github.com/pb33f/wiretap/issues"
